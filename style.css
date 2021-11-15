@@ -136,7 +136,7 @@ html {
 /* Hero  */
 
 .section-hero {
-  background: url(/img/Base.jpg) right center no-repeat white;
+  background: url(img/Base.jpg) right center no-repeat white;
   block-size: contain;
 }
 
@@ -186,7 +186,7 @@ html {
   width: 13px;
   height: 17px;
   margin-right: 10px;
-  background: url(/img/Shield-icon.svg) center center no-repeat transparent;
+  background: url(img/Shield-icon.svg) center center no-repeat transparent;
   block-size: contain;
   transform: translateY(-1px);
 }
